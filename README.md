@@ -14,6 +14,8 @@
 взаимосвязанных объектов.
 
 Для визуализации выходного json файла использовать вот этот сервис https://jsoncrack.com/editor
+<img width="723" height="648" alt="image" src="https://github.com/user-attachments/assets/cc18fe76-df18-4943-9e44-9288165c30b3" />
+
 
 # Основные возможности:
 
